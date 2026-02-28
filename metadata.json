@@ -1,0 +1,5 @@
+{
+  "name": "Python Co-Lab",
+  "description": "A multi-user coding lab for Python CLI tools with Pyodide and AI Co-pilot.",
+  "requestFramePermissions": []
+}
